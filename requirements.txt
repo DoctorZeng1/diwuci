@@ -1,5 +1,15 @@
 streamlit
 pandas
-joblib
 shap
 matplotlib
+jaraco.classes
+jedi 
+jellyfish 
+Jinja2 
+jinja2-time 
+jmespath
+joblib 
+json5 
+jsonpatch 
+jsonpointer==2.1
+jsonschema 
